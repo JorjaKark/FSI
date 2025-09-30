@@ -18,8 +18,7 @@ It is structured according to the characterization requirements: identification,
 ## 2. Cataloging
 - **Discovery**: Found by Stéphane Chazelas, privately reported to Bash maintainers (September 2014).  
 - **Disclosure**: Publicly revealed on 24 September 2014, causing global emergency responses.  
-- **Severity**: Assigned CVSS impact score of 10 (Critical), due to ease of exploitation and remote code execution.  
-- **Bug Bounty**: No financial bounty; disclosure coordinated via open-source and vendor security teams.  
+- **Severity**: Assigned CVSS impact score of 10 (Critical), due to ease of exploitation and remote code execution.
 
 ---
 
